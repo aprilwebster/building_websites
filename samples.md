@@ -14,7 +14,7 @@ Below are some wellness and yoga websites that are modern, SEO-optimized, clean,
 - **Features**: Focuses on presenting content in a polished and professional way, with no reliance on pop-ups.
 - **Use Case**: Ideal for a clean and professional presentation of services.
 
-## 3. [Wanda Badwal]((https://www.wandabadwal.com)
+## 3. [Wanda Badwal](https://www.wandabadwal.com)
 - **Design**: Chic and charming with warm colors and Aztec-inspired elements.
 - **Features**: Engaging and unique design that avoids pop-ups, focusing instead on user experience and aesthetics.
 - **Use Case**: Perfect for creating a personalized and standout online presence.
