@@ -8,11 +8,13 @@ Below are some wellness and yoga websites that are modern, SEO-optimized, clean,
    - Incorporates a chat app for enhanced user engagement, but generally avoids unnecessary pop-ups.
    - I noticed it has a promotional pop-up on the main page. This isn't recommended.  
 - **Use Case**: Great for websites that want a dynamic and interactive feel without being overly promotional.
+- **Review**: this website is actually too busy nad has far too many options to be user-friendly. I would NOT recommend building a website that looks like this.
 
 ## 2. [Chelsey Korus](https://www.chelseykorus.com)
 - **Design**: Minimalist theme with high-quality images and videos.
 - **Features**: Focuses on presenting content in a polished and professional way, with no reliance on pop-ups.
 - **Use Case**: Ideal for a clean and professional presentation of services.
+- **Review**: I liked the simplicity of this website. Only a few pages, relatively clear what each page provides in terms of information. No nested pages. Short pages. Almost all pages had a very clear call-to-action except for one.
 
 ## 3. [Wanda Badwal](https://www.wandabadwal.com)
 - **Design**: Chic and charming with warm colors and Aztec-inspired elements.
@@ -32,7 +34,9 @@ Below are some wellness and yoga websites that are modern, SEO-optimized, clean,
 These websites are excellent examples of how to design a user-centric, visually appealing website without relying on pop-ups or disruptive promotional content. Each offers a unique approach to engaging users while maintaining a clean and professional online presence.
 
 
-### Evaluation/Comparison
+### Audit of Call-to-Action
+This table presents an overview of the pages in each website and its call-to-action.
+
 | Website                   | Page                      | Call to Action                   | Other Notes                                                                 |
 |---------------------------|---------------------------|----------------------------------|------------------------------------------------------------------------------|
 | **CorePower Yoga**        | Homepage                  | "Find a Studio"                  | Bright and energetic design with a chat app for user engagement.             |
