@@ -1,6 +1,6 @@
 # Parts of SEO For Dummies 6th Edition
 
-## Part I: Getting Started with SEO
+## [Part I: Getting Started with SEO](part_1_getting_started_with_seo.md)
 
 ### Overview:
 This part introduces the foundational concepts of SEO, helping you understand how search engines work and why they are critical for driving traffic to your website.
