@@ -155,7 +155,7 @@ Search engines crawl the web, indexing content to build a searchable database. W
 
 ```html
 <meta name="description" content="Enjoy authentic Italian cuisine at [Your Restaurant Name]. Discover our menu and book a table today!">
-
+```
 
 #### 5. **Save and Test:**
 - After updating, save your changes and reload the page to ensure the new tags are in place.
