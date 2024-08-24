@@ -53,6 +53,97 @@ Search engines crawl the web, indexing content to build a searchable database. W
    - Update your meta titles and descriptions for your top 5 pages.
    - Ensure each page has a clear, descriptive H1 heading with your primary keyword.
 
-## Conclusion
 
-By following these steps, you’ll lay a strong foundation for your SEO efforts. Understanding how search engines work and making your site search engine-friendly are crucial first steps.
+
+## How to Check for Blocked Pages in Your robots.txt File
+
+### What is the robots.txt File?
+- The `robots.txt` file is a simple text file placed at the root of your website (e.g., `www.yoursite.com/robots.txt`). It tells search engine crawlers (like Googlebot) which pages or files they can or cannot request from your site.
+
+### Why It Matters:
+- If important pages are blocked in the `robots.txt` file, search engines may not index them, meaning they won't appear in search results.
+
+### Steps to Check and Fix Blocked Pages:
+
+1. **Locate Your robots.txt File:**
+   - Open a web browser and type in your website’s URL followed by `/robots.txt`. For example, `www.yoursite.com/robots.txt`.
+   - This should display the contents of your `robots.txt` file.
+
+2. **Review the Contents:**
+   - The file may contain lines like `Disallow: /` or `Disallow: /folder/`.
+   - `Disallow: /` blocks all crawlers from accessing your entire site.
+   - `Disallow: /folder/` blocks crawlers from accessing everything in the `/folder/` directory.
+
+   **Example:**
+   ```text
+   User-agent: *
+   Disallow: /private/
+   Disallow: /temp/
+   ```
+- In this example, everything in the `/private/` and `/temp/` directories is blocked from being crawled.
+
+### Identify Any Unintentional Blocks:
+
+- Look for any `Disallow` directives that might be preventing important pages from being indexed. For example, if `Disallow: /` is in the file, it blocks your entire site from being crawled.
+
+### Edit the robots.txt File (If Necessary):
+
+1. If you find that important pages are being blocked, you’ll need to edit the `robots.txt` file.
+2. Access your website’s root directory via FTP or your website's control panel.
+3. Open the `robots.txt` file in a text editor.
+4. Remove or modify the `Disallow` lines that are blocking important content.
+
+   **Example:**
+   - Change `Disallow: /private/` to `Disallow: /old-content/` if you only want to block certain old pages but keep others accessible.
+
+### Save and Upload:
+
+- Save the changes to your `robots.txt` file and upload it back to the root directory of your website.
+
+### Verify the Changes:
+
+- Use Google Search Console's **robots.txt Tester** to verify that your file is working correctly.
+- Enter the URL of the page you want to check and see if it’s being blocked.
+
+## How to Ensure Your Meta Tags Are Correct (Title, Description) for Each Page
+
+### What Are Meta Tags?
+- Meta tags like the `<title>` and `<meta description>` provide information about your web page to search engines and users. The title tag appears as the clickable headline in search results, and the meta description provides a summary of the page content.
+
+### Why It Matters:
+- Properly optimized meta tags can improve your search engine rankings and click-through rates by making your pages more relevant and appealing in search results.
+
+
+## How to Ensure Your Meta Tags Are Correct (Title, Description) for Each Page
+
+### What Are Meta Tags?
+- Meta tags like the `<title>` and `<meta name="description">` provide information about your web page to search engines and users. The title tag appears as the clickable headline in search results, and the meta description provides a summary of the page content.
+
+### Why It Matters:
+- Properly optimized meta tags can improve your search engine rankings and click-through rates by making your pages more relevant and appealing in search results.
+
+### Steps to Check and Optimize Meta Tags:
+
+#### Access Your Website’s Source Code:
+1. Open any page of your website in a browser.
+2. Right-click on the page and select **View Page Source** or press `Ctrl+U` (Windows) / `Cmd+U` (Mac).
+3. This opens the HTML source code of the page.
+
+#### Find the Title Tag:
+1. Look for the `<title>` tag in the `<head>` section of the HTML code. It should look like this:
+   ```html
+   <title>Your Page Title Here</title>
+   ```
+2. The content between the `<title>` tags is what appears in the search engine results.
+
+#### Check for:
+- **Relevance**: Ensure the title accurately reflects the content of the page.
+- **Length**: Keep it under 60 characters to avoid truncation in search results.
+- **Keywords**: Include your primary keyword naturally.
+
+### Find the Meta Description Tag:
+- Look for the `<meta name="description" content="...">` tag in the `<head>` section.
+
+```html
+<meta name="description" content="A brief description of your page content goes here.">
+
