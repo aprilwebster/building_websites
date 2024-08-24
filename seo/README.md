@@ -5,7 +5,7 @@
 - **Search Directories**: Human-curated collections of websites organized into categories (e.g., Open Directory Project).
 
 ## 2. Keywords
-- The foundation of SEO. Selecting the right keywords that potential visitors might use to search for your site is crucial. Tools like Google’s Keyword Planner can help identify these keywords.
+The foundation of SEO. Selecting the right keywords that potential visitors might use to search for your site is crucial. Tools like Google’s Keyword Planner can help identify these keywords.
 
 More details in [Keywords](keywords.md)
 
