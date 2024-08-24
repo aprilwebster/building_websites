@@ -7,6 +7,9 @@
 ## 2. Keywords
 - The foundation of SEO. Selecting the right keywords that potential visitors might use to search for your site is crucial. Tools like Google’s Keyword Planner can help identify these keywords.
 
+More details in [Keywords](keywords.md)
+
+
 ## 3. On-Page SEO
 - **Title Tags and Meta Descriptions**: Critical elements for search engines and users to understand the content of your page.
 - **Headings (H1, H2, etc.)**: Proper use of headings helps search engines understand the structure and importance of content on a page.
