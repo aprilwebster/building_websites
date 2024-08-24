@@ -15,7 +15,7 @@ This part introduces the foundational concepts of SEO, helping you understand ho
 2. **Fix Common Errors**: Ensure your robots.txt file and meta tags are not blocking important pages from being indexed.
 3. **Start with Keywords**: Begin identifying potential keywords that are relevant to your business using tools like Google Keyword Planner.
 
-## Part II: Building Search Engine-Friendly Sites
+## [Part II: Building Search Engine-Friendly Sites](part_2_building_search_engine_friendly_sites.md)
 
 ### Overview:
 This part dives into creating a website that is both user-friendly and search engine-friendly, focusing on on-page SEO elements.
@@ -30,7 +30,7 @@ This part dives into creating a website that is both user-friendly and search en
 2. **Optimize Page Elements**: Ensure each page on your site has a unique title tag, meta description, and uses headings (H1, H2, etc.) appropriately.
 3. **Improve Site Structure**: Organize your site’s content logically, using categories and subcategories that make it easy for users and search engines to navigate.
 
-## Part III: Adding Your Site to Indexes and Directories
+## [Part III: Adding Your Site to Indexes and Directories](part_3_adding_your_site_to_indexes_and_directories.md)
 
 ### Overview:
 This part covers the techniques you need to ensure your site is properly indexed by search engines and submitted to relevant directories to enhance visibility.
@@ -45,7 +45,7 @@ This part covers the techniques you need to ensure your site is properly indexed
 2. **Submit to Directories**: Identify and submit your site to high-quality directories, such as DMOZ (if applicable) and niche-specific directories related to your industry.
 3. **Optimize for Local Search**: Set up and optimize your Google My Business profile, ensuring consistent NAP (Name, Address, Phone Number) information across all online listings.
 
-## Part IV: After You’ve Submitted Your Site
+## [Part IV: After You’ve Submitted Your Site](part_4_after_youve_submitted_your_site.md)
 
 ### Overview:
 This part delves into advanced SEO strategies that go beyond basic optimization, focusing on building your site’s authority and managing its online reputation.
@@ -60,7 +60,7 @@ This part delves into advanced SEO strategies that go beyond basic optimization,
 2. **Monitor Your Online Reputation**: Use tools like Google Alerts or Mention to keep track of what is being said about your brand online, and respond to any negative feedback proactively.
 3. **Utilize Social Media**: Share your content on social media platforms and engage with your audience to drive more traffic to your site.
 
-## Part V: The Part of Tens
+## [Part V: The Part of Tens](part_5_the_part_of_tens.md)
 
 ### Overview:
 This part provides a collection of useful lists that can help you avoid common SEO pitfalls, stay updated on SEO trends, and optimize your efforts.
