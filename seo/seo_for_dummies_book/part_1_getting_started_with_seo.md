@@ -12,27 +12,27 @@ Search engines crawl the web, indexing content to build a searchable database. W
 
 Search engines like Google, Bing, and others play a crucial role in connecting users with the information they seek online. Here's how they work:
 
-## 1. Crawling
+#### 1. Crawling
 - Search engines use automated programs called "crawlers" or "spiders" (e.g., Googlebot) to visit web pages across the internet.
 - These crawlers follow links from one page to another, gathering data about the content on each page. This process is known as crawling.
 - Not all pages are crawled; the `robots.txt` file on your website can instruct crawlers on which pages to avoid.
 
-## 2. Indexing
+#### 2. Indexing
 - After crawling, the search engine processes and stores the information it has gathered in a massive database called the index.
 - The index is like a giant library of web pages, where each page is categorized and stored based on its content, keywords, and other important factors.
 - Pages that are well-organized, easy to navigate, and contain relevant content are more likely to be indexed correctly.
 
-## 3. Ranking
+#### 3. Ranking
 - When a user enters a search query, the search engine's algorithm analyzes the indexed pages to determine which are most relevant to the query.
 - The algorithm considers hundreds of factors, including keyword relevance, page quality, user experience, and backlinks.
 - Pages are then ranked in the search results based on how well they match the query and provide value to the user.
 
-## 4. Displaying Results
+#### 4. Displaying Results
 - The search engine presents the most relevant results to the user in the form of a Search Engine Results Page (SERP).
 - The results include organic listings, which are ranked based on relevance, as well as paid ads (if applicable).
 - The goal of the search engine is to provide users with the most accurate, useful, and high-quality content that answers their query.
 
-## 5. Continuous Updates
+#### 5. Continuous Updates
 - Search engines continuously update their algorithms to improve the quality of search results and combat spammy or manipulative tactics.
 - Staying informed about these updates is crucial for maintaining and improving your website’s ranking.
 
