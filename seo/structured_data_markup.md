@@ -35,7 +35,7 @@ Structured data is added to the HTML of a webpage in a format that search engine
     "calories": "200 calories"
   }
 }
-
+```
 
 # Benefits of Structured Data
 
