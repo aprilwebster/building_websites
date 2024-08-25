@@ -1,6 +1,27 @@
 
 # Content
 
+## Audience
+Corporations, HR, Benefits, etc
+
+## Requirements/Goals
+1. Clearly identify who you are and what your company does
+2. Local to Silicon Valley -- on the ground
+3. Clear list of services
+4. Chair massage is your primary service and should be highlighted somehow
+5. Clear path to contact the business
+6. Set up their wellness program -- value add?
+
+## Other ideas
+- website page for the company -
+   - communications and scheduling
+   - event planning
+- customized programming
+- personal relationship and attention to details
+- personalized
+- relationship is important
+- we take care of you
+
 ## 1. Our Philosophy
 ### Summary
 This page would outline the company’s core values and approach to wellness. It should explain the philosophy behind the services offered, emphasizing the integration of natural practices with modern science to achieve holistic well-being. The content should be concise, focusing on the company's mission to harmonize nature and urban living in the Bay Area.
