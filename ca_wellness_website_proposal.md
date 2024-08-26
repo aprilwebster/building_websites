@@ -11,6 +11,7 @@ Corporations, HR, Benefits, etc
 4. Chair massage is your primary service and should be highlighted somehow
 5. Clear path to contact the business
 6. Set up their wellness program -- value add?
+7. Manage booking, programming, etc 
 
 ## Other ideas
 - website page for the company -
@@ -21,6 +22,7 @@ Corporations, HR, Benefits, etc
 - personalized
 - relationship is important
 - we take care of you
+- gym management and design
 
 ## 1. Our Philosophy
 ### Summary
@@ -106,3 +108,7 @@ Simple and intuitive navigation with a sticky menu that allows users to easily e
 Design with accessibility in mind, including features like alt text for images, high-contrast options, and keyboard navigability.
 
 This aesthetic would not only appeal to the wellness-conscious clientele of the Bay Area but also provide a serene, modern, and inviting online experience that reflects the company’s commitment to holistic health and well-being.
+
+## Examples
+- exubrancy.com
+- lodomassagestudio.com, lodochairmassage.com
