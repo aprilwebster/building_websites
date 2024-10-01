@@ -111,9 +111,3 @@ markdown_content = """
 - **Ownership**: Upon project completion, the business will fully own the website, content, and any associated accounts (e.g., Google Analytics, social media accounts).
 """
 
-# Saving the markdown content to a file
-markdown_path = "/mnt/data/Website_Development_SEO_Requirements_Document.md"
-with open(markdown_path, "w") as file:
-    file.write(markdown_content)
-
-markdown_path
